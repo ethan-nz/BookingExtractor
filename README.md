@@ -38,8 +38,6 @@ dotnet build
 dotnet run
 ```
 
-You can also run the built `BookingExtractor.exe` from `bin\Debug\net8.0-windows\`.
-
 On the first run the app launches a dedicated Chrome window with its own profile and, if the site shows its login page, asks for your email and password.
 
 ## Logging in
