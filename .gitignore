@@ -1,0 +1,9 @@
+bin/
+obj/
+
+# Local credentials
+.env
+
+# Browser profile data
+playwright_profile/
+**/playwright_profile/
